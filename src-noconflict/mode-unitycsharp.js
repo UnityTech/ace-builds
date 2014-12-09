@@ -31,7 +31,7 @@ unitycsharpHighlightRules.metaData = { comment: 'Unity API Calls: version 2.1',
       foldingStartMarker: '/\\*\\*|\\{\\s*$|\\s*(case)',
       foldingStopMarker: '\\*\\*/|^\\s*\\}|^\\s*(break)',
       name: 'unitycsharp',
-      scopeName: 'source.js.unity' }
+      scopeName: 'source.cs.unity' }
 
 
 oop.inherits(unitycsharpHighlightRules, TextHighlightRules);
